@@ -1,0 +1,19 @@
+body {
+  background-color: floralwhite;
+}
+h1 {
+  color: darkgreen;
+}
+/* h2 {
+  color: darkgreen;
+} */
+h3 {
+  color: darkgreen;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
